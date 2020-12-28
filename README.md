@@ -3,9 +3,9 @@ This repository solves elementary level Math problems covering topics like Algeb
 
 The main program consists of 5 different Mathematical operations options:
 
-1.	Function: Consists of domain and range finding algorithms for a linear algebraic-functions
+1.	Function: Consists of domain and range finding algorithms for linear algebraic-functions
 
-2.	Equations: Consists of factorization algorithms for finding the roots of a quadratic equation and common-solution-algorithms for two simultaneous linear equations
+2.	Equations: Consists of factorization algorithms for finding the roots of quadratic equations and common-solution-algorithms for two simultaneous linear equations
 
 3.	Conversion: Consists of hr:min:sec conversion algorithms for any given time, km:meter:cm conversion algorithms for any given distance, and currency conversion algorithms
 
