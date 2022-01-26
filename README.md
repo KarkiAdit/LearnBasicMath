@@ -1,7 +1,5 @@
 # Learn Basic Math
 
-https://user-images.githubusercontent.com/68220732/151124271-e2022be1-32de-4c43-9887-496f77538a95.mp4
-
 This repository solves elementary level Math problems covering topics like Algebra, Conversion, and Measures of Central Tendency. I have shared both the source file and executable file of the program. If you have problem downloading the files and running the .exe file, it may be due to your browser restricting to download accounting to the fact that the file comes from an unregistered author and there may be a virus threat. If so, force download while downloading and do run anyway while opening the .exe file. Else, download an IDE (QB64 of Microsoft will be ideal) and just open the .bas file using it and then run the file. Here's the official link for QB64 download from Microsoft: https://www.qb64.org/portal/.
 
 https://user-images.githubusercontent.com/68220732/151124213-57850cc9-97af-4f4f-9b0a-1fdb3018616d.mp4
